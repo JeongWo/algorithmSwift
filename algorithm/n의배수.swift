@@ -1,8 +1,9 @@
-//
-//  n의배수.swift
-//  algorithm
-//
-//  Created by 김정우 on 12/4/23.
-//
-
 import Foundation
+
+func soluntion(_ num:Int, _ n:Int) -> Int {
+    if num%n == 0 {
+        return 1
+    }else {
+        return 0
+    }
+}
