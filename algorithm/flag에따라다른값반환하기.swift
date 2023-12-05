@@ -1,8 +1,5 @@
-//
-//  flag에따라다른값반환하기.swift
-//  algorithm
-//
-//  Created by 김정우 on 12/4/23.
-//
-
 import Foundation
+
+func soluntion(_ a:Int, _ b:Int, _ flag:Bool) -> Int {
+    return flag ? a + b : a - b
+}
