@@ -1,8 +1,12 @@
-//
-//  배열만들기1.swift
-//  algorithm
-//
-//  Created by 김정우 on 12/7/23.
-//
-
 import Foundation
+
+func solution (_ n:Int, _ k:Int)-> [Int] {
+    var answer:[Int] = []
+    for i in 1...n {
+        if k%2==0{
+            answer.append(i)
+        }
+    }
+    return answer
+}
+
