@@ -16,6 +16,7 @@
 		7F337E4F2B21CDAD0089ACAF /* 배열만들기1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F337E4E2B21CDAD0089ACAF /* 배열만들기1.swift */; };
 		7F337E512B2364520089ACAF /* 문자열이몇번등장하는지세기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F337E502B2364520089ACAF /* 문자열이몇번등장하는지세기.swift */; };
 		7F337E532B24B4750089ACAF /* 등차수열의특정한항만더하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F337E522B24B4750089ACAF /* 등차수열의특정한항만더하기.swift */; };
+		7F337E552B25FB240089ACAF /* 특별한이차원배열1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F337E542B25FB240089ACAF /* 특별한이차원배열1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,7 @@
 		7F337E4E2B21CDAD0089ACAF /* 배열만들기1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "배열만들기1.swift"; sourceTree = "<group>"; };
 		7F337E502B2364520089ACAF /* 문자열이몇번등장하는지세기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열이몇번등장하는지세기.swift"; sourceTree = "<group>"; };
 		7F337E522B24B4750089ACAF /* 등차수열의특정한항만더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "등차수열의특정한항만더하기.swift"; sourceTree = "<group>"; };
+		7F337E542B25FB240089ACAF /* 특별한이차원배열1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "특별한이차원배열1.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				7F337E4E2B21CDAD0089ACAF /* 배열만들기1.swift */,
 				7F337E502B2364520089ACAF /* 문자열이몇번등장하는지세기.swift */,
 				7F337E522B24B4750089ACAF /* 등차수열의특정한항만더하기.swift */,
+				7F337E542B25FB240089ACAF /* 특별한이차원배열1.swift */,
 			);
 			path = algorithm;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F337E552B25FB240089ACAF /* 특별한이차원배열1.swift in Sources */,
 				7F337E342B1C756F0089ACAF /* main.swift in Sources */,
 				7F337E482B1F6C050089ACAF /* 공배수.swift in Sources */,
 				7F337E532B24B4750089ACAF /* 등차수열의특정한항만더하기.swift in Sources */,
