@@ -1,6 +1,6 @@
 import Foundation
 
-let result = Dsolution(4, 4, 5, 4)
+let result = Intsolution(5)
 
 print("result:", result)
 
