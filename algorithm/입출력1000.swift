@@ -1,8 +1,12 @@
-//
-//  입출력1000.swift
-//  algorithm
-//
-//  Created by 김정우 on 1/13/24.
-//
-
 import Foundation
+
+func inputSoilution() {
+    
+let input = readLine()!
+let numbers = input.components(separatedBy: " ")
+let A = Int(numbers[0])!
+let B = Int(numbers[1])!
+
+print(A+B)
+    
+}
