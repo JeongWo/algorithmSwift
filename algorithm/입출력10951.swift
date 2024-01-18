@@ -4,11 +4,14 @@
 
 import Foundation
 
+func inputSolution5() {
+    
 while let line = readLine() {
     let numbers = line.split(separator: " ").compactMap{ Int(String($0))}
     if numbers.count == 2 {
         let A = numbers[0]
         let B = numbers[1]
         print(A+B)
+        }
     }
 }
